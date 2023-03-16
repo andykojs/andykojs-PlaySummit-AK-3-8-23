@@ -1,0 +1,13 @@
+﻿---
+ID: "a15c8515-a7d3-4d4b-9c99-93d62e7a76c3"
+Parent: "66c99e47-7bbf-52d1-b1d7-4662b850744a"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/PLAY/playwebsite/home/sponsors/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e1931ea-b258-4b30-8093-572c518fd855"

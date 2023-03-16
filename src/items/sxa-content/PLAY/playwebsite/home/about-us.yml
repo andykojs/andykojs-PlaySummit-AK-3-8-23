@@ -13,7 +13,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{46E05B4F-12AE-4231-8FDF-B9E6CA17F1FE}" />
+    <image mediaid="{C0F849D1-D92F-49E4-A321-CD378AD1B826}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -128,9 +128,105 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D0AEC7E7-7E64-5C7E-97EF-6C36273BBFC2}"
+              s:uid="{D0AEC7E7-7E64-5C7E-97EF-6C36273BBFC2}">
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{816710CB-9F03-5860-8E7C-5938120B08F3}"
+              s:par="FieldNames=&amp;Styles={AAD7C78F-EA7A-464F-9289-334EA001F38A}|{98006F93-D19D-44C8-A25D-CEC93528F129}&amp;RenderingIdentifier="
+              s:uid="{816710CB-9F03-5860-8E7C-5938120B08F3}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{8C0AD8A0-2D98-446D-8B12-18F2372143FE}"
+              p:after="r[@uid='{816710CB-9F03-5860-8E7C-5938120B08F3}']"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames={15C27ABD-0112-46D7-9C95-18F17BF7974E}&amp;Styles=&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier=&amp;CSSStyles=&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-main/container-1" />
+            <r
+              uid="{DE75C067-CF50-599C-97E7-A02BB1E3712A}"
+              s:uid="{DE75C067-CF50-599C-97E7-A02BB1E3712A}">
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{467625EA-A518-59FE-8DA7-39EE5833A223}"
+              s:uid="{467625EA-A518-59FE-8DA7-39EE5833A223}">
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{EACCECDD-63DE-525D-ACD9-17943F70386E}"
+              s:par="FieldNames=&amp;Styles={98006F93-D19D-44C8-A25D-CEC93528F129}&amp;RenderingIdentifier="
+              s:uid="{EACCECDD-63DE-525D-ACD9-17943F70386E}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{0329B5A3-6404-5286-BB63-8670949781D0}"
+              s:uid="{0329B5A3-6404-5286-BB63-8670949781D0}">
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{CD75CF06-B5EA-41EE-9898-9F537F0EDFE4}">
+              <p:da
+                name="ccb" />
+            </r>
+            <r
+              uid="{42771771-1673-4FB9-B6D5-E42F346161A2}">
+              <p:da
+                name="ccb" />
+            </r>
+            <r
+              uid="{272BABAA-458E-405A-80F5-A3633E57F61D}">
+              <p:da
+                name="ccb" />
+            </r>
+            <r
+              uid="{5688FA28-557B-41B0-8A4D-FB15AFE0D573}">
+              <p:da
+                name="ccb" />
+            </r>
+            <r
+              uid="{D42B2686-19A9-5C64-B74B-423A08BDA2D7}"
+              s:par="FieldNames=&amp;Styles=&amp;RenderingIdentifier="
+              s:uid="{D42B2686-19A9-5C64-B74B-423A08BDA2D7}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{711722BD-8C6B-5F9E-A7A4-63E3EE0F5487}"
+              s:uid="{711722BD-8C6B-5F9E-A7A4-63E3EE0F5487}">
+              <p:da
+                name="rname" />
+            </r>
+          </d>
+        </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7121e168-c093-4bad-8766-b4798f0ffd3b"
+      Value: "8c69e6fa-5017-4a7d-a252-21ae2d88dea2"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: About Us
